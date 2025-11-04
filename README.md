@@ -6,10 +6,10 @@ This is a simple Flutter app demonstrating:
 - Text-to-speech for AI replies (flutter_tts)
 - Local chat history saved to SharedPreferences
 
-Requirements
-------------
-- Flutter SDK (3.x+ recommended)
-- An Google gemini API key (or replace the API call with another AI provider)
+## Requirements
+- *Flutter SDK version:* 3.32.5
+- *Dart SDK version:* 3.8.1
+- An Google Gemini API key (or replace the API call with another AI provider)
 
 Setup
 -----
